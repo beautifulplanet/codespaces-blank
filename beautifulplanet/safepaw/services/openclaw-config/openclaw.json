@@ -1,0 +1,9 @@
+{
+  "gateway": {
+    "bind": "lan",
+    "controlUi": {
+      "enabled": true,
+      "dangerouslyAllowHostHeaderOriginFallback": true
+    }
+  }
+}
